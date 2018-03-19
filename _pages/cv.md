@@ -18,25 +18,25 @@ Education
 Work experience
 ======
 *	Researcher, Microsoft Research, Sep. 2014 – Present
-Research and development in the area of IoT and datacenters. Combining systems, intelligence and analytics to create new experiences and capabilities in the era of IoT.
+	* Research and development in the area of IoT and datacenters. Combining systems, intelligence and analytics to create new experiences and capabilities in the era of IoT.
 *	Research Assistant, CSE, The Pennsylvania State University, Jan. 2010 – Aug. 2014.
-Research in the area of datacenter, specifically, developed theoretical framework for provisioning
+	* Research in the area of datacenter, specifically, developed theoretical framework for provisioning
 and harnessing energy storage for datacenter demand response, built system software for virtualizing power distribution, analyzed power infrastructure cost-availability trade-offs, evaluated renewable generation planning for sustainable IT, and explored emerging non-volatile memory technologies.
 *	Research Intern, Microsoft Research, May - Aug. 2013.
-Developed a framework for exploring the design space trade-off when building different backup power infrastructure capacity for a datacenter, evaluated the effectiveness of different software and hardware techniques to enhance performance and availability during power outages.
+	* Developed a framework for exploring the design space trade-off when building different backup power infrastructure capacity for a datacenter, evaluated the effectiveness of different software and hardware techniques to enhance performance and availability during power outages.
 *	Research Intern, Microsoft Research, May - Aug. 2012.
-Worked on data furnace project - heating office buildings and residential homes by running servers to provide “free" energy. Characterized production datacenter workload/power consumption, and explored use cases.
+	* Worked on data furnace project - heating office buildings and residential homes by running servers to provide “free" energy. Characterized production datacenter workload/power consumption, and explored use cases.
 *	Research Intern, IBM Almaden Research Center, May - Aug. 2011.
-Explored the benefits of multi-tiered distributed filesystem such as GPFS for big data applications
+	* Explored the benefits of multi-tiered distributed filesystem such as GPFS for big data applications
 in shared nothing cluster environment.
 *	Research Assistant, ECE, Boston University, Aug. 2008 - Dec. 2009.
-Research in the electronics design automation field, especially focused on high level modelling and synthesis of digital hardware.
+	* Research in the electronics design automation field, especially focused on high level modelling and synthesis of digital hardware.
 *	R&D Engineer, Teklatech A/S, Denmark, Feb. 2008 - Aug. 2008.
-Developed and tested IC design software. Constituted in part doing software programming, doing IC design as reference design, validating the usefulness of the developments on general IC design flows.
+	* Developed and tested IC design software. Constituted in part doing software programming, doing IC design as reference design, validating the usefulness of the developments on general IC design flows.
 *	Software Programmer (Part-time Student Job), Department of Chemical Engineering, DTU, Aug. 2006 - Feb. 2008.
-Developed and maintained a software that integrates different thermodynamic models and algorithms, and performs phase equilibrium calculations for different systems.
+	* Developed and maintained a software that integrates different thermodynamic models and algorithms, and performs phase equilibrium calculations for different systems.
 *	Research Assistant, IMM, Technical University of Denmark, Jun. - Aug. 2006.
-Developed CMOS 90nm integrated circuit layout design flow, various tasks including full custom
+	* Developed CMOS 90nm integrated circuit layout design flow, various tasks including full custom
 layout, DRC, LVS, netlist extraction.
 
   
@@ -57,8 +57,7 @@ Awards and Recognition
 Publications
 ======
 * Book:
-
-[Lambert’15] D. Wang, “Variability Aware Statistical Timing Modeling Using SPICE Simulations”, Lambert Academic Publishing, ISBN 978-3-659-40553, 2015.
+	* [Lambert’15] D. Wang, “Variability Aware Statistical Timing Modeling Using SPICE Simulations”, Lambert Academic Publishing, ISBN 978-3-659-40553, 2015.
 
 * Journals:  
 
