@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 * Book:
 	* [Lambert’15] D. Wang, “Variability Aware Statistical Timing Modeling Using SPICE Simulations”, Lambert Academic Publishing, ISBN 978-3-659-40553, 2015.
