@@ -112,10 +112,9 @@ Publications
 	[SIGMETRICS'13]. Di Wang, Chuangang Ren, Sriram Govindan, Anand Sivasubramaniam, Bhuvan Urgaonkar, Aman Kansal and Kushagra Vaid, “ACE: Abstracting, Characterizing and Exploiting Peaks and Valleys in Datacenter Power Consumption", in Proceedings of the ACM International Conference on Measurement and Modeling of Computer Systems (Poster), Pittsburgh, PA, June 2013. Acceptance ratio: 60/196 (30%).
 
 	[SIGMETRICS'12]. Di Wang, Chuangang Ren, Anand Sivasubramaniam, Bhuvan Urgaonkar, and
-Hosam K. Fathy, “Energy Storage in Datacenters: What, Where and How Much?", in Proceedings of the ACM International Conference on Measurement and Modeling of Computer Systems, 
-2012. Acceptance ratio: 31/203 (15%). Nominated for Best Paper Award (one of four nominations).
+Hosam K. Fathy, “Energy Storage in Datacenters: What, Where and How Much?", in Proceedings of the ACM International Conference on Measurement and Modeling of Computer Systems, 2012. Acceptance ratio: 31/203 (15%). Nominated for Best Paper Award (one of four nominations).
 
- [IISWC'13]. Di Wang, Chuangang Ren, Sriram Govindan, Anand Sivasubramaniam, Bhuvan Urgaonkar, Aman Kansal and Kushagra Vaid, “ACE: Abstracting, Characterizing and Exploiting Datacenter Power Demands", in Proceedings of the IEEE International Symposium on Workload Characterization, Portland, Oregon, Sep. 2013. Acceptance ratio: 19/62 (30%). Best Paper Award.
+   [IISWC'13]. Di Wang, Chuangang Ren, Sriram Govindan, Anand Sivasubramaniam, Bhuvan Urgaonkar, Aman Kansal and Kushagra Vaid, “ACE: Abstracting, Characterizing and Exploiting Datacenter Power Demands", in Proceedings of the IEEE International Symposium on Workload Characterization, Portland, Oregon, Sep. 2013. Acceptance ratio: 19/62 (30%). Best Paper Award.
 
 [MASCOTS'12]. Chuangang Ren, Di Wang, Bhuvan Urgaonkar, and Anand Sivasubramaniam, “Carbon-Aware Energy Capacity Planning for Datacenters", in Proceedings of IEEE International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems, Arlington, VA, Aug. 2012. Acceptance ratio: 49/134 (36%). Best Paper Award.
 
