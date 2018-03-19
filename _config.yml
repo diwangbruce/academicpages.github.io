@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Di Wang"
+title                    : "Di Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Di Wang"
 description              : &description "Researcher at Microsoft"
@@ -80,11 +80,9 @@ analytics:
 author:
   name             : "Di Wang"
   avatar           : "profile.png"
-  bio              : "My research interests span the areas of computer systems, computer architecture, applied machine learning, VLSI design,  energy-efficient systems design and sustainable computing. Specifically, I have applied my expertise on these topics to the areas of datacenters, IoT, storage systems, fault tolerant systems and electronics design automation tools. Recently, I have been working on combining systems, intelligence and analytics to create new experiences and capabilities in the era of IoT.
-
-I received my Ph.D. in Computer Science and Engineering from Penn State University in 2014, M.S. in Computer Systems Engineering from Technical University of Denmark (DTU) in 2008 and B.E. in Computer Science and Technology from Zhejiang University in 2005."
+  bio              : "Researcher @ Microsoft"
   googlescholar    : "https://scholar.google.com/citations?user=O-d6-LIAAAAJ&hl=en"
-  email            : "wangdi at microsoft.com"
+  email            : "wangdi@microsoft.com"
   linkedin         : "https://www.linkedin.com/in/diwang/"
 
 
