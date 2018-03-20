@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Service"
+permalink: /service/
+author_profile: true
+redirect_from:
+  - /service
+---
+
+{% include base_path %}
+
 * Technical program committee:
   * ICDCS’18 Vice-Chair of “Distributed Green Computing and Energy Management” track
   * IEEE International Conference on Distributed Computing Systems (ICDCS), 2017.
