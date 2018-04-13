@@ -10,7 +10,7 @@ author_profile: true
 	* A. Mamun, I. Narayanan, D. Wang, A. Sivasubramaniam, H. K. Fathy, “A Stochastic Optimal Control Approach for Exploring Tradeoffs between Cost Savings and Battery Aging in Datacenters Demand Response”,  in IEEE Transactions on Control Systems Technology, 26(1):360-367, January 2018
 
 * 2017
-	* Yuanyuan Shi, Bolun Xu, Di Wang, Baosen Zhang, Using Battery Storage for Peak Shaving and Frequency Regulation: Joint Optimization for Superlinear Gains, to appear in IEEE PES Transactions on Power Systems, 2017.
+	* Yuanyuan Shi, Bolun Xu, Di Wang, Baosen Zhang, <i> Using Battery Storage for Peak Shaving and Frequency Regulation: Joint Optimization for Superlinear Gains</i>, in IEEE PES Transactions on Power Systems, 2017.
 	* Iyswarya Narayanan, Di Wang, Abdullah-al Mamun, Anand Sivasubramaniam, Hosam Fathy, Sean James, Evaluating Energy Storage for a Multitude of Uses in the Datacenter, in the Proceedings of IEEE International Symposium on Workload Characterization (IISWC), 2017.
 	* Neda Nasiriani, George Kesidis, Di Wang, Optimal Peak Shaving Using Batteries at Datacenters: Characterizing the Risks and Benefits,  in Proceedings of the IEEE 25th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS) 2017 (<b>Best Paper Award</b>).
 	* Iyswarya Narayanan, Bikash Sharma, Di Wang, Sriram Govindan, Laura Caulfield, Anand Sivasubramaniam, Aman Kansal, Jie Liu, Badriddine Khessib and Kushagra Vaid, “Rain or Shine? – Making Sense of Cloudy Reliability Data”, in Proceedings of the 37th IEEE International Conference on Distributed Computing (ICDCS), 2017.
