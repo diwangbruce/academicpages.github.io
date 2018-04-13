@@ -7,6 +7,7 @@ author_profile: true
 
 
 * 2018
+	* N. Nasiriani, G. Kesidis, D. Wang, Public Cloud Differential Pricing Design Under Provider and Tenants Joint Demand Response, to appear in The Ninth ACM International Conference on Future Energy Systems (e-Energy), 2018.
 	* A. Mamun, I. Narayanan, D. Wang, A. Sivasubramaniam, H. K. Fathy, “A Stochastic Optimal Control Approach for Exploring Tradeoffs between Cost Savings and Battery Aging in Datacenters Demand Response”,  in IEEE Transactions on Control Systems Technology, 26(1):360-367, January 2018
 
 * 2017
