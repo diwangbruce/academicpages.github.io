@@ -23,3 +23,6 @@ redirect_from:
   * Mengting Wan (’16 UCSD): WWW’17
   * Iyswarya Narayanan (’15 Penn State): Systor’16 Best Student Paper Award, Sigmetrics’16 Poster
   * Yang Li (’14 CMU): HPCA’16
+  
+* Phd Thesis Committee
+  * Neda Nasiriani, Penn State University,  Cloud Provider’s Energy-efficient Operation and Effective Pricing Design, thesis defense date: May 4th, 2018.
