@@ -9,9 +9,10 @@ author_profile: true
 * 2018
 	* N. Nasiriani, G. Kesidis, D. Wang, <i>Public Cloud Differential Pricing Design Under Provider and Tenants Joint Demand Response </i>, to appear in The Ninth ACM International Conference on Future Energy Systems (e-Energy), 2018.
 	* A. Mamun, I. Narayanan, D. Wang, A. Sivasubramaniam, H. K. Fathy, <i>A Stochastic Optimal Control Approach for Exploring Tradeoffs between Cost Savings and Battery Aging in Datacenters Demand Response</i>,  in IEEE Transactions on Control Systems Technology, 26(1):360-367, January 2018
+	* Yuanyuan Shi, Bolun Xu, Di Wang, Baosen Zhang, <i> Using Battery Storage for Peak Shaving and Frequency Regulation: Joint Optimization for Superlinear Gains</i>, in IEEE PES Transactions on Power Systems, May, 2018.
 
 * 2017
-	* Yuanyuan Shi, Bolun Xu, Di Wang, Baosen Zhang, <i> Using Battery Storage for Peak Shaving and Frequency Regulation: Joint Optimization for Superlinear Gains</i>, in IEEE PES Transactions on Power Systems, 2017.
+
 	* Iyswarya Narayanan, Di Wang, Abdullah-al Mamun, Anand Sivasubramaniam, Hosam Fathy, Sean James, <i>Evaluating Energy Storage for a Multitude of Uses in the Datacenter</i>, in the Proceedings of IEEE International Symposium on Workload Characterization (IISWC), 2017.
 	* Neda Nasiriani, George Kesidis, Di Wang, <i>Optimal Peak Shaving Using Batteries at Datacenters: Characterizing the Risks and Benefits</i>,  in Proceedings of the IEEE 25th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS) 2017 (<b>Best Paper Award</b>).
 	* Iyswarya Narayanan, Bikash Sharma, Di Wang, Sriram Govindan, Laura Caulfield, Anand Sivasubramaniam, Aman Kansal, Jie Liu, Badriddine Khessib and Kushagra Vaid, <i>Rain or Shine? – Making Sense of Cloudy Reliability Data</i>, in Proceedings of the 37th IEEE International Conference on Distributed Computing (ICDCS), 2017.
