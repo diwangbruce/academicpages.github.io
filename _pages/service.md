@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 * Technical program committee:
-  * Co-chair of First International Workshop on the Efficiency of Modern Data Centers (EMDC), Oct, 2018.
+  * Co-chair of First International Workshop on the Efficiency of Modern Data Centers (EMDC), colocated with IEEE International Conference on Industrial Internet (ICII),  Oct, 2018.
   * ICDCS’18 Vice-Chair of “Distributed Green Computing and Energy Management” track
   * IEEE International Conference on Distributed Computing Systems (ICDCS), 2017.
   * IEEE International Conference on Autonomic Computing (ICAC), 2017.
