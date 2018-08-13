@@ -7,7 +7,8 @@ author_profile: true
 
 
 * 2018
-	* N. Nasiriani, G. Kesidis, D. Wang, <i>Public Cloud Differential Pricing Design Under Provider and Tenants Joint Demand Response </i>, to appear in The Ninth ACM International Conference on Future Energy Systems (e-Energy), 2018.
+	* Mengting Wan, Di Wang, Jie Liu, Paul Bennett, Julian McAuley, "Representing and Recommending Shopping Baskets with Complementarity, Compatibility, and Loyalty", to appear in Proc. of 2018 ACM Conference on Information and Knowledge Management (CIKM'18), Turin, Italy, Oct. 2018. 
+	* N. Nasiriani, G. Kesidis, D. Wang, <i>Public Cloud Differential Pricing Design Under Provider and Tenants Joint Demand Response </i>, in Proceedings of the Ninth ACM International Conference on Future Energy Systems (e-Energy), 2018.
 	* A. Mamun, I. Narayanan, D. Wang, A. Sivasubramaniam, H. K. Fathy, <i>A Stochastic Optimal Control Approach for Exploring Tradeoffs between Cost Savings and Battery Aging in Datacenters Demand Response</i>,  in IEEE Transactions on Control Systems Technology, 26(1):360-367, January 2018
 	* Yuanyuan Shi, Bolun Xu, Di Wang, Baosen Zhang, <i> Using Battery Storage for Peak Shaving and Frequency Regulation: Joint Optimization for Superlinear Gains</i>, in IEEE PES Transactions on Power Systems, May, 2018.
 
