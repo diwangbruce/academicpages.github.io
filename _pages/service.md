@@ -21,6 +21,7 @@ redirect_from:
   * The Forth International Workshop on Efficient Data Center System (EDCS), held in conjunction with 43rd International Symposium on Computer Architecture (ISCA), 2016.
 
 * Past Intern Students:
+  * Dimitrios Stamoulis ('18 CMU): http://arxiv.org/abs/1904.02877
   * Mengting Wan (’16,’17 UCSD): WWW’17, CIKM'18
   * Iyswarya Narayanan (’15 Penn State): Systor’16 Best Student Paper Award, Sigmetrics’16 Poster
   * Yang Li (’14 CMU): HPCA’16
