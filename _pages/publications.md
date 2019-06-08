@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 * 2019
+	* Dimitrios Stamoulis, Ruizhou Ding, Di Wang, Dimitrios Lymberopoulos, Bodhi Priyantha, Jie Liu, Diana Marculescu, "Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours", to appear in Proceedings of European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2019 (ECML PKDD'19) arXiv link: http://arxiv.org/abs/1904.02877; codebase: https://github.com/dstamoulis/single-path-nas
 	* Dimitrios Stamoulis, Ruizhou Ding, Di Wang, Dimitrios Lymberopoulos, Bodhi Priyantha, Jie Liu and Diana Marculescu, "Single-Path NAS: Device-Aware Efficient ConvNet Design", Joint Workshop on On-Device Machine Learning & Compact Deep Neural Network Representations (ODML-CDNNR), colocated with ICML, 2019.
-	* Dimitrios Stamoulis, Ruizhou Ding, Di Wang, Dimitrios Lymberopoulos, Bodhi Priyantha, Jie Liu, Diana Marculescu, "Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours", arXiv link: http://arxiv.org/abs/1904.02877; codebase: https://github.com/dstamoulis/single-path-nas
+	
 
 * 2018
 	* Mengting Wan, Di Wang, Jie Liu, Paul Bennett, Julian McAuley, "Representing and Recommending Shopping Baskets with Complementarity, Compatibility, and Loyalty", in Proc. of 2018 ACM Conference on Information and Knowledge Management (CIKM'18), Turin, Italy, Oct. 2018. 
