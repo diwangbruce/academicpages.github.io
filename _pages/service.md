@@ -28,3 +28,4 @@ redirect_from:
   
 * Phd Thesis Committee
   * Neda Nasiriani, Penn State University,  Cloud Provider’s Energy-efficient Operation and Effective Pricing Design, thesis defense date: May 4th, 2018.
+  * Dimitrios Stamoulis, CMU
