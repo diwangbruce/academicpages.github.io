@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 * 2020
+	* F. Yu, C. Liu, D. Wang, Y. Wang, and X. Chen. AntiDOte: Attention-based Dynamic Optimization for Neural Network Runtime Efficiency, to appear in the 23rd Design Automation and Test in Europe Conference (DATE), Mar. 2020. 
 	* F. Yu, Z. Qin, D. Wang, P. Xu, C. Liu, T. Zhi, and X. Chen. DC-CNN: Computational Flow Redefinition for Efficient CNN Inference through Model Structural Decoupling, to appear in the 23rd Design Automation and Test in Europe Conference (DATE), Mar. 2020.
-	
- 	* F. Yu, C. Liu, D. Wang, Y. Wang, and X. Chen. AntiDOte: Attention-based Dynamic Optimization for Neural Network Runtime Efficiency, to appear in the 23rd Design Automation and Test in Europe Conference (DATE), Mar. 2020. 
+		
 * 2019
 	* Dimitrios Stamoulis, Ruizhou Ding, Di Wang, Dimitrios Lymberopoulos, Bodhi Priyantha, Jie Liu, Diana Marculescu, "Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours", to appear in Proceedings of European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2019 (ECML PKDD'19) arXiv link: http://arxiv.org/abs/1904.02877; codebase: https://github.com/dstamoulis/single-path-nas
 	* Dimitrios Stamoulis, Ruizhou Ding, Di Wang, Dimitrios Lymberopoulos, Bodhi Priyantha, Jie Liu and Diana Marculescu, "Single-Path NAS: Device-Aware Efficient ConvNet Design", Joint Workshop on On-Device Machine Learning & Compact Deep Neural Network Representations (ODML-CDNNR), colocated with ICML, 2019. (<b>Best Paper Award</b>)
