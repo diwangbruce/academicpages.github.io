@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * 2020
+	*  F. Yu, D. Wang, Y. Chen, N. Karianakis, P. Yu, D. Lymberopoulos, X. Chen, Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning, arXiv: https://arxiv.org/abs/1911.07158
 	* F. Yu, C. Liu, D. Wang, Y. Wang, and X. Chen. AntiDOte: Attention-based Dynamic Optimization for Neural Network Runtime Efficiency, to appear in the 23rd Design Automation and Test in Europe Conference (DATE), Mar. 2020. 
 	* F. Yu, Z. Qin, D. Wang, P. Xu, C. Liu, T. Zhi, and X. Chen. DC-CNN: Computational Flow Redefinition for Efficient CNN Inference through Model Structural Decoupling, to appear in the 23rd Design Automation and Test in Europe Conference (DATE), Mar. 2020.
 		
