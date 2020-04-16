@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * 2020
-	* Dimitrios Stamoulis, Ruizhou Ding, Di Wang, Dimitrios Lymberopoulos, Bodhi Priyantha, Jie Liu, Diana Marculescu, Single-Path Mobile AutoML: Efficient ConvNet Design and NAS Hyperparameter Optimization, to appear in IEEE Journal of Selected Topics in Signal Processing, 2020.
+	* Dimitrios Stamoulis, Ruizhou Ding, Di Wang, Dimitrios Lymberopoulos, Bodhi Priyantha, Jie Liu, Diana Marculescu, Single-Path Mobile AutoML: Efficient ConvNet Design and NAS Hyperparameter Optimization, in IEEE Journal of Selected Topics in Signal Processing, Feb., 2020.
 	* F. Yu, D. Wang, Y. Chen, N. Karianakis, P. Yu, D. Lymberopoulos, X. Chen, Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning, to appear in the 2nd Vision for all Seasons (V4AS) Workshop, collocated with Computer Vision and Pattern Recognition (CVPR) Conference, June, 2020.
 	* F. Yu, C. Liu, D. Wang, Y. Wang, and X. Chen. AntiDOte: Attention-based Dynamic Optimization for Neural Network Runtime Efficiency, to appear in the 23rd Design Automation and Test in Europe Conference (DATE), Mar. 2020. 
 	* F. Yu, Z. Qin, D. Wang, P. Xu, C. Liu, T. Zhi, and X. Chen. DC-CNN: Computational Flow Redefinition for Efficient CNN Inference through Model Structural Decoupling, to appear in the 23rd Design Automation and Test in Europe Conference (DATE), Mar. 2020.
