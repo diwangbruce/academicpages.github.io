@@ -36,4 +36,4 @@ redirect_from:
 * Phd Thesis Committee
   * Neda Nasiriani, Penn State University,  Cloud Provider’s Energy-efficient Operation and Effective Pricing Design, thesis defense date: May 4th, 2018.
   * Dimitrios Stamoulis, CMU, Hardware-aware AutoML for Efficient Deep Learning Applications, thesis defense date: Jan. 23, 2020.
-  * Yang Li, CMU, Deep Graph Sequence Models for Spatial and Time-Dependent Data, thesis defense data: Dec. 23, 2020.
+  * Yang Li, CMU, Deep Learning Models for Forecasting Graph-based Time-dependent Data, thesis defense data: Dec. 23, 2020.
