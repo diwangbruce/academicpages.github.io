@@ -27,7 +27,7 @@ redirect_from:
   * The Forth International Workshop on Efficient Data Center System (EDCS), held in conjunction with 43rd International Symposium on Computer Architecture (ISCA), 2016.
 
 * Past Intern Students:
-  * Fuxun Yu ('19 George Mason): V4AS@CVPR’20
+  * Fuxun Yu ('19,'20 George Mason): V4AS@CVPR’20
   * Dimitrios Stamoulis ('18 CMU): JSTSP’20, ECMLPKDD'19, ODML-CDNNR'19 Best Paper Award (collocated with ICML'19)
   * Mengting Wan (’16,’17 UCSD): WWW’17, CIKM'18
   * Iyswarya Narayanan (’15 Penn State): Systor’16 Best Student Paper Award, Sigmetrics’16 Poster
