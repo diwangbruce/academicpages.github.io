@@ -11,13 +11,13 @@ redirect_from:
   * Special Issue "Efficiency of Modern Data Centers" (EMDC) in IoT, https://www.mdpi.com/journal/IoT/special_issues/EMDC2020#
 * Chair:
   * Co-Chair of First International Workshop on the Efficiency of Modern Data Centers (EMDC), Colocated with the Web Conference (WebConf) 2021, https://sites.google.com/view/emdc
+   * ICDCS’18 Vice-Chair of “Distributed Green Computing and Energy Management” track
 * Technical program committee:
   * IEEE International Conference on Distributed Computing Systems (ICDCS), 2020.
   * IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), 2020.
   * TheWebConf (WWW), Poster Track, 2020.
   * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD), 2019
   * IEEE International Conference on Autonomic Computing (ICAC), 2019.
-  * ICDCS’18 Vice-Chair of “Distributed Green Computing and Energy Management” track
   * IEEE International Conference on Distributed Computing Systems (ICDCS), 2017.
   * IEEE International Conference on Autonomic Computing (ICAC), 2017.
   * International Conference on Computer Communications and Networks (ICCCN), 2017.
