@@ -7,8 +7,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-* Guest Editor:
-  * Special Issue "Efficiency of Modern Data Centers" (EMDC) in IoT, https://www.mdpi.com/journal/IoT/special_issues/EMDC2020#
+* Editor:
+  * Guest Associate Editor in Machine Learning and Artificial Intelligence at Frontiers, Research Topic Editor for Sustainable Deep neural Network-based Solutions: https://www.frontiersin.org/research-topics/19854/sustainable-deep-neural-network-based-solutions
+  * Guest Editor for Special Issue "Efficiency of Modern Data Centers" (EMDC) in IoT, https://www.mdpi.com/journal/IoT/special_issues/EMDC2020#
 * Chair:
   * Co-Chair of First International Workshop on the Efficiency of Modern Data Centers (EMDC), Colocated with the Web Conference (WebConf) 2021, https://sites.google.com/view/emdc
    * ICDCS’18 Vice-Chair of “Distributed Green Computing and Energy Management” track
