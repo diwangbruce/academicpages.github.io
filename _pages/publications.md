@@ -4,8 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* 2021
+	* Fuxun Yu, Zhuwei Qin, Chenchen Liu, Di Wang, and Xiang Chen, REIN the RobuTS: Robust DNN-based Image Recognition in Autonomous Driving Systems, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol 40, Issue 6, pages 1258-1271, June 2021.
+	*  F. Yu, W. Zhang, Z. Qin, Z. Xu, D. Wang, C. Liu, Z. Tian, and X. Chen. Fed^2: Feature Aligned Federated Learning, to appear in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021.
 * 2020
-	* Fuxun Yu, Zhuwei Qin, Chenchen Liu, Di Wang, and Xiang Chen, REIN the RobuTS: Robust DNN-based Image Recognition in Autonomous Driving Systems, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Oct. 2020.
 	* Fuxun Yu, Dimitrios Stamoulis, Di Wang, Dimitrios Lymberopoulos, Xiang Chen, Exploring the Design Space of Efficient Deep Neural Networks, in the 3rd Workshop on Computing Architecture for Edge Computing (ArchEdge), Collocated with the 5th ACM/IEEE Symposium on Edge Computing, Virtual, Nov. 2020.
 	* Dimitrios Stamoulis, Ruizhou Ding, Di Wang, Dimitrios Lymberopoulos, Bodhi Priyantha, Jie Liu, Diana Marculescu, Single-Path Mobile AutoML: Efficient ConvNet Design and NAS Hyperparameter Optimization, in IEEE Journal of Selected Topics in Signal Processing, Vol 14, Issue 4, Page 609-622, May, 2020.
 	* F. Yu, D. Wang, Y. Chen, N. Karianakis, P. Yu, D. Lymberopoulos, X. Chen, Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning, to appear in the 2nd Vision for all Seasons (V4AS) Workshop, collocated with Computer Vision and Pattern Recognition (CVPR) Conference, June, 2020.
